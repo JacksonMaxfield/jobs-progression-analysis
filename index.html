@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang='en'>
+	<head>
+		<meta charset='UTF-8'>
+		<title>Analyzing Job Progression</title>
+		<link rel="icon" href="resources/logo.png">
+		<link href="css/main.css" type="text/css" rel="stylesheet">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+		<script src="js/scroll.js"></script>
+	</head>
+
+	<body id="top">
+		<div id="header-bar">
+			<div class="float-right">
+				<a href="#top" class="section-link transition-all-200 yellow-party">Top</a>
+				<a href="#summary" class="section-link transition-all-200 red-party">Summary</a>
+				<a href="#method" class="section-link transition-all-200 blue-party">Method</a>
+				<a href="#results" class="section-link transition-all-200 green-party">Results</a>
+			</div>
+		</div>
+		<div class="container-80-center">
+			<div class="content-container">
+				<div class="reduce-content-size">
+					<div class="inner-left-35">
+						<div id="title-container">
+							<h1 class="page-title">Ranking Jobs Using<br>Future Progression</h1>
+							<p class="issue-text">INFO 370: Introduction to Data Science</p>
+							<p class="subtext">An Analysis By:
+								<a href="http://jacksonmaxfield.github.io/" class="team-member transition-all-100">Jackson Brown</a>,
+								<a href="https://www.linkedin.com/in/domenica-mata-0a2b4295" class="team-member transition-all-100">Domenica Mata</a>, and
+								<a href="https://www.linkedin.com/in/lincoln-shan-25842a61" class="team-member transition-all-100">Lincoln Shan</a>
+							</p>
+						</div>
+					</div>
+					<div class="inner-right-50">
+						<h2 class="link-box">Content Sections:</h2>
+						<a href="#summary" class="section-link transition-all-200 red-party">Summary</a>
+						<a href="#method" class="section-link transition-all-200 blue-party">Method</a>
+						<a href="#results" class="section-link transition-all-200 green-party">Results</a>
+					</div>
+				</div>
+
+				<div id="summary" class="content-section">
+					<h2 class="section-title">Summary&nbsp;of&nbsp;Project:</h1>
+					<p class="content-text">Glassdoor is an online website and service for employers to post job-ads and for employees and individuals to view and rate companies. The company aims to provide transparency between employers and employees because they believe that doing so creates huge benefits to employers, employees, and job seekers.</p>
+					<p class="content-text">The question our project aims to answer is <i>“What are the best geographical locations in the U.S to start a career at in terms of quality of life and job progression for new graduates in tech-related fields in 2016?”</i></p>
+					<p class="content-text">We firmly believe that making decisions according to data, rather than solely relying on intuition enables newly graduates to make better, informed choices when contemplating where to start a career in terms of quality of life and professional development prospects.</p>
+					<p class="content-text">Thus, by using data on companies gathered from Glassdoor and socioeconomic data from the U.S Census Bureau, we hope to give newly graduates a more comprehensive understanding of what companies offer the best benefits and what locations for said company to choose based on salary, number of entry-level tech jobs available, benefits, opportunities, cost of living, crime rate and commuting time and options.</p>
+				</div>
+
+				<div id="method" class="content-section method">
+					<h2 class="section-title">Method:</h2>
+					<div class="method-content">
+						<ul>
+							<li class="content-text">We start by creating a list of the top 7 U.S Technology companies from NASDAQ's set of company lists by Industry. In our case, Computer and Information Technology Companies.</li>
+							<li class="content-text">We obtained jobs statistics for each company from Glassdoor by making query calls to the site's API with the company's location (city and state) and name. Then, we filtered the results by excluding all elements from our jobs list that include the following words which denote seniority as used by LinkedIn job filtering tools:</li>
+							<ul>
+								<li class="content-text wrapLi"><i>'Chief'</i>,</li>
+								<li class="content-text wrapLi"><i>'Director'</i>,</li>
+								<li class="content-text wrapLi"><i>'Manager'</i>,</li>
+								<li class="content-text wrapLi"><i>'President'</i>,</li>
+								<li class="content-text wrapLi"><i>'Principal'</i>,</li>
+								<li class="content-text wrapLi"><i>'Sr.'</i>,</li>
+								<li class="content-text wrapLi"><i>'Lead'</i>,</li>
+								<li class="content-text wrapLi"><i>'Partner'</i>,</li>
+								<li class="content-text wrapLi"><i>'Senior'</i>,</li>
+								<li class="content-text wrapLi"><i>'Executive'</i>,</li>
+								<li class="content-text wrapLi"><i>'2'</i>,</li>
+								<li class="content-text wrapLi"><i>'II'</i>,</li>
+								<li class="content-text wrapLi"><i>'VP'</i>,</li>
+								<li class="content-text wrapLi"><i>'Vice President'</i></li>
+							</ul>
+							<li class="content-text">We gathered data from the May 2015 Metropolitan and Nonmetropolitan Area Occupational Employment and Wage Estimates from the U.S Bureau of Labor Statistics for the national and city/county levels. The data on all levels includes unique BLS Identifier for each Job Title, National or Local Average Annual Mean Salary and Job Title.</li>
+							<li class="content-text">We compiled a list of the best 25 tech-related jobs in the U.S from our Glassdoor data by assigning each job title a rank based on the salaries for said job (starting job) and the the nex 2 jobs an employee in that position is likely to attain, as estimated by Glassdoor's Job Progression Statistics Tool. The ranks for all jobs are obtained with the following formula:
+								<ul class="use-disc">
+									<li class="content-text">Starting Position(National Average Mean Salary) = P<h4 class="subtext" style="display:inline">1</h4></li>
+									<li class="content-text">1st Next Job for Starting Position (National Average Mean Salary) = P<h4 class="subtext" style="display:inline">2</h4></li>
+									<li class="content-text">2nd Next Job fpr Starting Position (National Average Mean Salary) = P<h4 class="subtext" style="display:inline">3</h4></li>
+								</ul>
+								<div class="formula-box">
+									<i>JobScore = (P<h4 class="subtext" style="display:inline">1</h4> * 0.45) + (P<h4 class="subtext" style="display:inline">2</h4> * 0.15) + (P<h4 class="subtext" style="display:inline">3</h4> * 0.40)</i>
+								</div>
+								<!--<p id="disclaimer"><br>&nbsp &nbsp &nbsp *Weights were obtained through a survey distributed to college students via social media where respondents were asked to rank the stages of their prospective career by distributing 100 points among starting job, 1st next job and 2nd next job. Results demonstrated that while the middle stage of a career attains certain importance, the immediate and long-term stages of a career are the most important for our respondents.</p>-->
+							</li>
+							<li class="content-text">Locations are filtered by:</li>
+							<ul>
+								<li class="content-text wrapLi">Temp,</li>
+								<li class="content-text wrapLi">Temp,</li>
+								<li class="content-text wrapLi">Temp</li>
+							</ul>
+							<li class="content-text">Then, to sort the jobs by location, we determine what cities offer the jobs with the best progression from our previous rating.</li>
+							<li class="content-text">Then for each city, a list will show each job with its ranking in our list, the median starting salary for that job in that city (normalized with the Consumer Price Index vs the CPI for the nation) and the average salary progression for the job.</li>
+							<li class="content-text">When you click on the job title, a window will show a of companies offering that job and each company will have a rating that is based on getting the average rating based on:
+								<ul>
+									<li class="content-text wrapLi"><i>'Culture and Values'</i>,</li>
+									<li class="content-text wrapLi"><i>'Work/ Life Balance'</i>,</li>
+									<li class="content-text wrapLi"><i>'Senior Management'</i>,</li>
+									<li class="content-text wrapLi"><i>'Comp & Benefits'</i>,</li>
+									<li class="content-text wrapLi"><i>'Career Opportunities'</i></li>
+								</ul>
+							</li>
+						</ul>
+					</div>
+				</div>
+
+				<div id="results" class="content-section">
+					<h2 class="section-title">Results:</h2>
+					<div id="vis-container" class="map-vis container-sub"></div>
+					<div class="data-result-container true-flex-box container-sub">
+						<div class="jobs-data-container drop-items-box">
+							<h2 class="container-title">Top Jobs:</h2>
+						</div>
+						<div class="company-data-container drop-items-box">
+							<h2 class="container-title">Top Companies:</h2>
+						</div>
+					</div>
+
+					<div class="block-content">
+						<p class="content-text">
+							Due to time constraints, presenting the data in full map form was not possible. However moving foward there are clear goals to make this analysis and visualization even better.
+
+						</p>
+						<p class="content-text">
+							We can improve our ranking algorithm, and allow for user input. We used an average set of weights to form out ranks, but it would be possible to allow a user to input their own weights to what they think is most important in job progression.
+						</p>
+
+						<p class="content-text">
+							Additionally, while we were only to compile seven companies and their location and job data, the system is built to scale. Meaning that in future development, it is possible for a user to search a specific company, or company and location, and the data would return back (albeit slowly).
+						</p>
+
+						<p class="content-text">
+							The benefit this would provide would be more accurate rankings and more information to present. As more data comes in, we can show more of the top jobs in a location and additionally bring more cities with top jobs into our output data.
+						</p>
+
+					</div>
+				</div>
+
+				<div id="footnotes" class="content-section">
+					<h2 class="section-title">Footnotes:</h2>
+					<div class="sources-content">
+						<ul>
+							<li class="content-text">hello</li>
+							<li class="content-text">hello</li>
+							<li class="content-text">hello</li>
+							<li class="content-text">hello</li>
+						</ul>
+					</div>
+				</div>
+
+				<div id="sources" class="content-section">
+					<h2 class="section-title">Sources:</h2>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
