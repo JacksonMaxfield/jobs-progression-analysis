@@ -1,0 +1,63 @@
+CORating,state,city,CaBRating,CaVRating,title,company,WLBRating,nextJobTwo,nextJobOne,SLRating,id,jobId,numJobs
+3.4,CA,Santa Clara,4.1,4.1,Data Engineer,Apple,3.3,area manager,contractor,3.5,0,46157,12
+3.4,CA,Santa Clara,4.1,4.1,Ios Software Engineer,Apple,3.3,,,3.5,1,213919,11
+3.4,CA,Santa Clara,4.1,4.1,Software Engineer,Apple,3.3,,,3.5,2,4279,11
+3.4,CA,Santa Clara,4.1,4.1,Product Designer,Apple,3.3,senior product designer,senior designer,3.5,3,37257,11
+3.4,CA,Santa Clara,4.1,4.1,CPU Implementation Engineer,Apple,3.3,,,3.5,4,423921,9
+3.4,CA,Santa Clara,4.1,4.1,Solutions Engineer,Apple,3.3,senior systems engineer,manager,3.5,5,30513,9
+3.4,CA,Santa Clara,4.1,4.1,Embedded Software Engineer,Apple,3.3,lead software engineer,senior software engineer,3.5,6,36758,8
+3.4,CA,Santa Clara,4.1,4.1,Icloud Software Engineer,Apple,3.3,,,3.5,7,583100,8
+3.4,CA,Santa Clara,4.1,4.1,Site Reliability Engineer,Apple,3.3,,,3.5,8,12391,8
+3.4,CA,Santa Clara,4.1,4.1,Full-stack Web Engineer (Software Engineer),Apple,3.3,,,3.5,9,565857,8
+3.4,CA,Santa Clara,4.1,4.1,Product Design Engineer,Apple,3.3,lead engineer,product development engineer,3.5,10,37253,7
+3.4,CA,Santa Clara,4.1,4.1,Software Engineer - ICloud,Apple,3.3,,,3.5,11,1018216,6
+3.4,CA,Santa Clara,4.1,4.1,Graphics Software Engineer,Apple,3.3,,,3.5,12,21703,6
+3.4,CA,Santa Clara,4.1,4.1,QA Engineer,Apple,3.3,senior qa analyst,software engineer,3.5,13,55668,6
+3.4,CA,Santa Clara,4.1,4.1,Software Development Engineer In Test,Apple,3.3,,,3.5,14,30333,6
+3.4,CA,Santa Clara,4.1,4.1,Software QA Engineer,Apple,3.3,project manager,software quality engineer,3.5,15,30608,5
+3.4,CA,Santa Clara,4.1,4.1,Genius,Apple,3.3,,,3.5,16,21392,5
+3.4,CA,Santa Clara,4.1,4.1,Supplier Quality Engineer (Mechanical),Apple,3.3,,,3.5,17,99104,5
+3.4,CA,Santa Clara,4.1,4.1,Apple Expert,Apple,3.3,,,3.5,18,9245,5
+3.4,CA,Santa Clara,4.1,4.1,Packaging Testing Engineer,Apple,3.3,,,3.5,19,586800,5
+3.4,CA,Santa Clara,4.1,4.1,Apple Specialist,Apple,3.3,,,3.5,20,9259,5
+3.4,CA,Santa Clara,4.1,4.1,Integration Design Engineer,Apple,3.3,,,3.5,21,583441,5
+3.4,CA,Santa Clara,4.1,4.1,Business Specialist,Apple,3.3,business development manager,project manager,3.5,22,62619,5
+3.4,CA,Santa Clara,4.1,4.1,Software Developer In Test,Apple,3.3,,,3.5,23,120554,5
+3.4,CA,Santa Clara,4.1,4.1,Software Quality Engineer,Apple,3.3,release software engineer,software engineer,3.5,24,30637,5
+3.4,CA,Santa Clara,4.1,4.1,Apple Creative,Apple,3.3,,,3.5,25,160696,5
+3.4,CA,Santa Clara,4.1,4.1,Fea Engineer,Apple,3.3,,,3.5,26,102334,5
+3.4,CA,Santa Clara,4.1,4.1,Specialist,Apple,3.3,senior analyst,analyst,3.5,27,30663,5
+3.4,CA,Santa Clara,4.1,4.1,CAD Engineer,Apple,3.3,mechanical engineer,mechanical designer,3.5,28,12554,5
+3.4,CA,Santa Clara,4.1,4.1,Privacy Project Engineer,Apple,3.3,,,3.5,29,587883,5
+3.4,CA,Santa Clara,4.1,4.1,Creative,Apple,3.3,,,3.5,30,59883,5
+3.4,NY,New York,4.1,4.1,Service Specialist,Apple,3.3,customer service rep,customer service representative,3.5,31,35961,22
+3.4,NY,New York,4.1,4.1,Solutions Engineer,Apple,3.3,senior systems engineer,manager,3.5,32,30513,19
+3.4,NY,New York,4.1,4.1,Genius,Apple,3.3,,,3.5,33,21392,18
+3.4,NY,New York,4.1,4.1,Apple Expert,Apple,3.3,,,3.5,34,9245,17
+3.4,NY,New York,4.1,4.1,Apple Specialist,Apple,3.3,,,3.5,35,9259,17
+3.4,NY,New York,4.1,4.1,Business Specialist,Apple,3.3,business development manager,project manager,3.5,36,62619,17
+3.4,NY,New York,4.1,4.1,Apple Creative,Apple,3.3,,,3.5,37,160696,17
+3.4,NY,New York,4.1,4.1,Specialist,Apple,3.3,senior analyst,analyst,3.5,38,30663,17
+3.4,NY,New York,4.1,4.1,Creative,Apple,3.3,,,3.5,39,59883,17
+3.4,NY,New York,4.1,4.1,Inventory Specialist,Apple,3.3,intern,administrative assistant,3.5,40,10274,17
+3.4,NY,New York,4.1,4.1,Apple Business Specialist,Apple,3.3,,,3.5,41,605825,17
+3.4,NY,New York,4.1,4.1,Expert,Apple,3.3,contractor,business analyst,3.5,42,31973,17
+3.4,NY,New York,4.1,4.1,Apple Genius,Apple,3.3,,,3.5,43,66972,17
+3.4,NY,New York,4.1,4.1,Apple Solutions Consultant,Apple,3.3,,,3.5,44,9258,8
+3.4,NY,New York,4.1,4.1,Full Time Teller,Apple,3.3,receptionist,head teller,3.5,45,38516,7
+3.4,NY,New York,4.1,4.1,IOS Developer,Apple,3.3,software developer,mobile developer,3.5,46,190122,7
+3.4,NY,New York,4.1,4.1,IOS Engineer,Apple,3.3,,,3.5,47,216349,6
+3.4,NY,New York,4.1,4.1,Membership Sales Representative,Apple,3.3,,,3.5,48,13495,6
+3.4,NY,New York,4.1,4.1,Federal Financial Management Consultant,Apple,3.3,,,3.5,49,674983,5
+3.4,NY,New York,4.1,4.1,IOS Architect,Apple,3.3,,,3.5,50,463296,5
+3.4,NY,New York,4.1,4.1,Sales Associate,Apple,3.3,,manager,3.5,51,50838,5
+3.4,NY,New York,4.1,4.1,Financial Services Representative,Apple,3.3,personal banker,sales associate,3.5,52,43644,5
+3.4,NY,New York,4.1,4.1,Mac Desktop Support,Apple,3.3,,,3.5,53,1044465,4
+3.4,NY,New York,4.1,4.1,Brand Creative - Copywriter,Apple,3.3,,,3.5,54,711905,4
+3.4,NY,New York,4.1,4.1,Mobile Producer,Apple,3.3,,,3.5,55,130650,4
+3.4,NY,New York,4.1,4.1,Apple Retail,Apple,3.3,,,3.5,56,70069,4
+3.4,NY,New York,4.1,4.1,Sales Research Analyst,Apple,3.3,,,3.5,57,705964,4
+3.4,NY,New York,4.1,4.1,IT Audit Compliance Specialist,Apple,3.3,,,3.5,58,106933,4
+3.4,NY,New York,4.1,4.1,Data Strategist,Apple,3.3,,,3.5,59,281350,4
+3.4,NY,New York,4.1,4.1,Software Engineer,Apple,3.3,,,3.5,60,4279,4
+3.4,NY,New York,4.1,4.1,Enterprise Operations Analyst,Apple,3.3,,,3.5,61,921096,3

@@ -1,0 +1,16 @@
+nextJobOne,company,CaBRating,state,numJobs,id,CORating,city,nextJobTwo,SLRating,WLBRating,similarBLSSalary,title,jobId,similarBLSJob,CaVRating
+developer,Microsoft,4.0,OH,3,17977,3.7,Youngstown,team lead,3.4,3.7,93250,Business Intelligence Analyst,63031,Information Security Analysts,3.8
+,Microsoft,4.0,OH,2,17981,3.7,Youngstown,,3.4,3.7,93250,Data Research/Excel Analyst,81057,Information Security Analysts,3.8
+senior administrative assistant,Microsoft,4.0,OH,2,17988,3.7,Youngstown,executive administrative assistant,3.4,3.7,93250,Department Secretary,40626,Information Security Analysts,3.8
+human resources manager,Microsoft,4.0,PA,1,8476,3.7,York,manager,3.4,3.7,93250,Human Resources Generalist,34168,Information Security Analysts,3.8
+filing specialist,Microsoft,4.0,PA,1,8481,3.7,York,litigation secretary,3.4,3.7,93250,Patent Secretary,134217,Information Security Analysts,3.8
+project manager,Microsoft,4.0,NY,10,18217,3.7,Yonkers,controller,3.4,3.7,93250,Financial Analyst,43960,Information Security Analysts,3.8
+,Microsoft,4.0,NY,9,18223,3.7,Yonkers,,3.4,3.7,93250,Patient Accounts Rep,705989,Information Security Analysts,3.8
+executive legal secretary,Microsoft,4.0,NY,8,18226,3.7,Yonkers,litigation secretary,3.4,3.7,93250,Legal Secretary,62818,Information Security Analysts,3.8
+intern,Microsoft,4.0,MA,1,5581,3.7,Worcester,recruiting coordinator,3.4,3.7,93250,Human Resources Coordinator,34156,Information Security Analysts,3.8
+project manager,Microsoft,4.0,RI,5,19874,3.7,Woonsocket,controller,3.4,3.7,93250,Financial Analyst,43960,Information Security Analysts,3.8
+,Microsoft,4.0,RI,4,19876,3.7,Woonsocket,,3.4,3.7,93250,Systems Security Analyst,64782,Information Security Analysts,3.8
+consultant,Microsoft,4.0,RI,4,19878,3.7,Woonsocket,project manager,3.4,3.7,93250,Management Analyst,20221,Information Security Analysts,3.8
+project manager,Microsoft,4.0,RI,3,19881,3.7,Woonsocket,manager,3.4,3.7,93250,Reporting Analyst,33356,Information Security Analysts,3.8
+,Microsoft,4.0,RI,3,19885,3.7,Woonsocket,,3.4,3.7,93250,Operational Excellence Analyst,203791,Information Security Analysts,3.8
+,Microsoft,4.0,RI,2,19900,3.7,Woonsocket,,3.4,3.7,93250,Infrastructure Security Engineer,513067,Information Security Analysts,3.8

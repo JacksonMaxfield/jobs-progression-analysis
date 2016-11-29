@@ -14,6 +14,30 @@ $(document).ready(function() {
 		  }, 1200, 'swing');
 	});
 
+	$(".fn-toward").on('click', function(event) {
+	    event.preventDefault();
+
+	    var target = this.hash;
+	    var $target = $(target);
+		  var x = $(window).width();
+
+			$('html, body').stop().animate( {
+		      'scrollTop': $target.offset().top - 60
+		  }, 1200, 'swing');
+	});
+
+	$(".fn-back").on('click', function(event) {
+	    event.preventDefault();
+
+	    var target = this.hash;
+	    var $target = $(target);
+		  var x = $(window).width();
+
+			$('html, body').stop().animate( {
+		      'scrollTop': $target.offset().top - 60
+		  }, 1200, 'swing');
+	});
+
 	$(window).scroll(function() {
 		var height = $(window).scrollTop();
 

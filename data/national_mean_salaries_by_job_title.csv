@@ -1,0 +1,821 @@
+bls_id,med_salary,title
+11-1011,"$185,850",Chief Executives
+11-1021,"$119,460",General and Operations Managers
+11-1031,"$42,530",Legislators
+11-2011,"$113,610",Advertising and Promotions Managers
+11-2021,"$140,660",Marketing Managers
+11-2022,"$130,400",Sales Managers
+11-2031,"$119,390",Public Relations and Fundraising Managers
+11-3011,"$94,840",Administrative Services Managers
+11-3021,"$141,000",Computer and Information Systems Managers
+11-3031,"$134,330",Financial Managers
+11-3051,"$103,720",Industrial Production Managers
+11-3061,"$114,130",Purchasing Managers
+11-3071,"$95,130","Transportation, Storage, and Distribution Managers"
+11-3111,"$121,630",Compensation and Benefits Managers
+11-3121,"$117,080",Human Resources Managers
+11-3131,"$111,680",Training and Development Managers
+11-9013,"$69,880","Farmers, Ranchers, and Other Agricultural Managers"
+11-9021,"$97,510",Construction Managers
+11-9031,"$52,760","Education Administrators, Preschool and Childcare Center/Program"
+11-9032,"$92,940","Education Administrators, Elementary and Secondary School"
+11-9033,"$102,610","Education Administrators, Postsecondary"
+11-9039,"$82,970","Education Administrators, All Other"
+11-9041,"$141,650",Architectural and Engineering Managers
+11-9051,"$53,640",Food Service Managers
+11-9061,"$84,470",Funeral Service Managers
+11-9071,"$77,770",Gaming Managers
+11-9081,"$57,810",Lodging Managers
+11-9111,"$106,070",Medical and Health Services Managers
+11-9121,"$136,570",Natural Sciences Managers
+11-9131,"$70,540",Postmasters and Mail Superintendents
+11-9141,"$68,240","Property, Real Estate, and Community Association Managers"
+11-9151,"$69,430",Social and Community Service Managers
+11-9161,"$73,750",Emergency Management Directors
+11-9199,"$111,230","Managers, All Other"
+13-1011,"$95,810","Agents and Business Managers of Artists, Performers, and Athletes"
+13-1021,"$62,280","Buyers and Purchasing Agents, Farm Products"
+13-1022,"$59,270","Wholesale and Retail Buyers, Except Farm Products"
+13-1023,"$66,120","Purchasing Agents, Except Wholesale, Retail, and Farm Products"
+13-1031,"$64,300","Claims Adjusters, Examiners, and Investigators"
+13-1032,"$65,300","Insurance Appraisers, Auto Damage"
+13-1041,"$69,180",Compliance Officers
+13-1051,"$64,810",Cost Estimators
+13-1071,"$63,710",Human Resources Specialists
+13-1074,"$43,920",Farm Labor Contractors
+13-1075,"$60,930",Labor Relations Specialists
+13-1081,"$77,470",Logisticians
+13-1111,"$91,770",Management Analysts
+13-1121,"$51,200","Meeting, Convention, and Event Planners"
+13-1131,"$57,170",Fundraisers
+13-1141,"$65,100","Compensation, Benefits, and Job Analysis Specialists"
+13-1151,"$62,460",Training and Development Specialists
+13-1161,"$70,030",Market Research Analysts and Marketing Specialists
+13-1199,"$73,480","Business Operations Specialists, All Other"
+13-2011,"$75,280",Accountants and Auditors
+13-2021,"$58,400",Appraisers and Assessors of Real Estate
+13-2031,"$75,150",Budget Analysts
+13-2041,"$79,720",Credit Analysts
+13-2051,"$95,320",Financial Analysts
+13-2052,"$118,050",Personal Financial Advisors
+13-2053,"$72,650",Insurance Underwriters
+13-2061,"$88,310",Financial Examiners
+13-2071,"$49,310",Credit Counselors
+13-2072,"$75,170",Loan Officers
+13-2081,"$57,280","Tax Examiners and Collectors, and Revenue Agents"
+13-2082,"$44,730",Tax Preparers
+13-2099,"$72,480","Financial Specialists, All Other"
+15-1111,"$115,580",Computer and Information Research Scientists
+15-1121,"$90,180",Computer Systems Analysts
+15-1122,"$93,250",Information Security Analysts
+15-1131,"$84,360",Computer Programmers
+15-1132,"$102,160","Software Developers, Applications"
+15-1133,"$108,760","Software Developers, Systems Software"
+15-1134,"$70,660",Web Developers
+15-1141,"$84,250",Database Administrators
+15-1142,"$82,200",Network and Computer Systems Administrators
+15-1143,"$103,100",Computer Network Architects
+15-1151,"$52,430",Computer User Support Specialists
+15-1152,"$67,260",Computer Network Support Specialists
+15-1199,"$87,310","Computer Occupations, All Other"
+15-2011,"$110,560",Actuaries
+15-2021,"$112,560",Mathematicians
+15-2031,"$84,180",Operations Research Analysts
+15-2041,"$84,440",Statisticians
+15-2091,"$53,630",Mathematical Technicians
+15-2099,"$78,310","Mathematical Science Occupations, All Other"
+17-1011,"$82,850","Architects, Except Landscape and Naval"
+17-1012,"$68,600",Landscape Architects
+17-1021,"$65,410",Cartographers and Photogrammetrists
+17-1022,"$61,880",Surveyors
+17-2011,"$110,570",Aerospace Engineers
+17-2021,"$78,490",Agricultural Engineers
+17-2031,"$91,230",Biomedical Engineers
+17-2041,"$103,960",Chemical Engineers
+17-2051,"$87,940",Civil Engineers
+17-2061,"$114,970",Computer Hardware Engineers
+17-2071,"$97,340",Electrical Engineers
+17-2072,"$102,390","Electronics Engineers, Except Computer"
+17-2081,"$88,040",Environmental Engineers
+17-2111,"$87,810","Health and Safety Engineers, Except Mining Safety Engineers and Inspectors"
+17-2112,"$86,990",Industrial Engineers
+17-2121,"$100,090",Marine Engineers and Naval Architects
+17-2131,"$94,690",Materials Engineers
+17-2141,"$88,190",Mechanical Engineers
+17-2151,"$107,880","Mining and Geological Engineers, Including Mining Safety Engineers"
+17-2161,"$106,060",Nuclear Engineers
+17-2171,"$149,590",Petroleum Engineers
+17-2199,"$98,150","Engineers, All Other"
+17-3011,"$53,470",Architectural and Civil Drafters
+17-3012,"$62,890",Electrical and Electronics Drafters
+17-3013,"$56,610",Mechanical Drafters
+17-3019,"$53,660","Drafters, All Other"
+17-3021,"$68,620",Aerospace Engineering and Operations Technicians
+17-3022,"$51,330",Civil Engineering Technicians
+17-3023,"$61,870",Electrical and Electronics Engineering Technicians
+17-3024,"$56,320",Electro-Mechanical Technicians
+17-3025,"$51,170",Environmental Engineering Technicians
+17-3026,"$56,320",Industrial Engineering Technicians
+17-3027,"$56,390",Mechanical Engineering Technicians
+17-3029,"$62,820","Engineering Technicians, Except Drafters, All Other"
+17-3031,"$44,800",Surveying and Mapping Technicians
+19-1011,"$71,830",Animal Scientists
+19-1012,"$72,030",Food Scientists and Technologists
+19-1013,"$65,980",Soil and Plant Scientists
+19-1021,"$93,390",Biochemists and Biophysicists
+19-1022,"$76,230",Microbiologists
+19-1023,"$64,230",Zoologists and Wildlife Biologists
+19-1029,"$77,190","Biological Scientists, All Other"
+19-1031,"$63,800",Conservation Scientists
+19-1032,"$60,650",Foresters
+19-1041,"$76,900",Epidemiologists
+19-1042,"$93,730","Medical Scientists, Except Epidemiologists"
+19-1099,"$79,870","Life Scientists, All Other"
+19-2011,"$110,220",Astronomers
+19-2012,"$118,500",Physicists
+19-2021,"$90,210",Atmospheric and Space Scientists
+19-2031,"$77,860",Chemists
+19-2032,"$94,940",Materials Scientists
+19-2041,"$73,930","Environmental Scientists and Specialists, Including Health"
+19-2042,"$105,720","Geoscientists, Except Hydrologists and Geographers"
+19-2043,"$83,440",Hydrologists
+19-2099,"$98,240","Physical Scientists, All Other"
+19-3011,"$109,230",Economists
+19-3022,"$59,340",Survey Researchers
+19-3031,"$76,040","Clinical, Counseling, and School Psychologists"
+19-3032,"$92,320",Industrial-Organizational Psychologists
+19-3039,"$93,050","Psychologists, All Other"
+19-3041,"$82,100",Sociologists
+19-3051,"$70,680",Urban and Regional Planners
+19-3091,"$64,290",Anthropologists and Archeologists
+19-3092,"$74,920",Geographers
+19-3093,"$61,120",Historians
+19-3094,"$103,210",Political Scientists
+19-3099,"$80,650","Social Scientists and Related Workers, All Other"
+19-4011,"$39,000",Agricultural and Food Science Technicians
+19-4021,"$45,230",Biological Technicians
+19-4031,"$48,730",Chemical Technicians
+19-4041,"$60,710",Geological and Petroleum Technicians
+19-4051,"$78,850",Nuclear Technicians
+19-4061,"$45,760",Social Science Research Assistants
+19-4091,"$46,540","Environmental Science and Protection Technicians, Including Health"
+19-4092,"$60,090",Forensic Science Technicians
+19-4093,"$38,260",Forest and Conservation Technicians
+19-4099,"$48,360","Life, Physical, and Social Science Technicians, All Other"
+21-1011,"$42,920",Substance Abuse and Behavioral Disorder Counselors
+21-1012,"$56,490","Educational, Guidance, School, and Vocational Counselors"
+21-1013,"$53,520",Marriage and Family Therapists
+21-1014,"$45,080",Mental Health Counselors
+21-1015,"$38,040",Rehabilitation Counselors
+21-1019,"$47,950","Counselors, All Other"
+21-1021,"$46,610","Child, Family, and School Social Workers"
+21-1022,"$54,020",Healthcare Social Workers
+21-1023,"$47,190",Mental Health and Substance Abuse Social Workers
+21-1029,"$57,970","Social Workers, All Other"
+21-1091,"$56,690",Health Educators
+21-1092,"$54,080",Probation Officers and Correctional Treatment Specialists
+21-1093,"$33,190",Social and Human Service Assistants
+21-1094,"$40,150",Community Health Workers
+21-1099,"$44,370","Community and Social Service Specialists, All Other"
+21-2011,"$48,150",Clergy
+21-2021,"$45,160","Directors, Religious Activities and Education"
+21-2099,"$35,160","Religious Workers, All Other"
+23-1011,"$136,260",Lawyers
+23-1012,"$59,910",Judicial Law Clerks
+23-1021,"$93,140","Administrative Law Judges, Adjudicators, and Hearing Officers"
+23-1022,"$69,060","Arbitrators, Mediators, and Conciliators"
+23-1023,"$116,100","Judges, Magistrate Judges, and Magistrates"
+23-2011,"$52,390",Paralegals and Legal Assistants
+23-2091,"$54,720",Court Reporters
+23-2093,"$49,840","Title Examiners, Abstractors, and Searchers"
+23-2099,"$64,530","Legal Support Workers, All Other"
+25-1011,"$92,220","Business Teachers, Postsecondary"
+25-1021,"$84,700","Computer Science Teachers, Postsecondary"
+25-1022,"$77,290","Mathematical Science Teachers, Postsecondary"
+25-1031,"$84,880","Architecture Teachers, Postsecondary"
+25-1032,"$104,220","Engineering Teachers, Postsecondary"
+25-1041,"$95,280","Agricultural Sciences Teachers, Postsecondary"
+25-1042,"$86,830","Biological Science Teachers, Postsecondary"
+25-1043,"$91,030","Forestry and Conservation Science Teachers, Postsecondary"
+25-1051,"$92,540","Atmospheric, Earth, Marine, and Space Sciences Teachers, Postsecondary"
+25-1052,"$86,070","Chemistry Teachers, Postsecondary"
+25-1053,"$88,570","Environmental Science Teachers, Postsecondary"
+25-1054,"$93,950","Physics Teachers, Postsecondary"
+25-1061,"$85,440","Anthropology and Archeology Teachers, Postsecondary"
+25-1062,"$81,700","Area, Ethnic, and Cultural Studies Teachers, Postsecondary"
+25-1063,"$106,980","Economics Teachers, Postsecondary"
+25-1064,"$79,690","Geography Teachers, Postsecondary"
+25-1065,"$88,680","Political Science Teachers, Postsecondary"
+25-1066,"$79,370","Psychology Teachers, Postsecondary"
+25-1067,"$76,750","Sociology Teachers, Postsecondary"
+25-1069,"$79,820","Social Sciences Teachers, Postsecondary, All Other"
+25-1071,"$114,510","Health Specialties Teachers, Postsecondary"
+25-1072,"$73,150","Nursing Instructors and Teachers, Postsecondary"
+25-1081,"$68,200","Education Teachers, Postsecondary"
+25-1082,"$73,030","Library Science Teachers, Postsecondary"
+25-1111,"$64,460","Criminal Justice and Law Enforcement Teachers, Postsecondary"
+25-1112,"$126,230","Law Teachers, Postsecondary"
+25-1113,"$69,030","Social Work Teachers, Postsecondary"
+25-1121,"$76,710","Art, Drama, and Music Teachers, Postsecondary"
+25-1122,"$70,290","Communications Teachers, Postsecondary"
+25-1123,"$71,210","English Language and Literature Teachers, Postsecondary"
+25-1124,"$69,520","Foreign Language and Literature Teachers, Postsecondary"
+25-1125,"$76,670","History Teachers, Postsecondary"
+25-1126,"$75,140","Philosophy and Religion Teachers, Postsecondary"
+25-1191,"$32,510",Graduate Teaching Assistants
+25-1192,"$69,090","Home Economics Teachers, Postsecondary"
+25-1193,"$66,090","Recreation and Fitness Studies Teachers, Postsecondary"
+25-1194,"$54,260","Vocational Education Teachers, Postsecondary"
+25-1199,"$71,060","Postsecondary Teachers, All Other"
+25-2011,"$32,500","Preschool Teachers, Except Special Education"
+25-2012,"$54,510","Kindergarten Teachers, Except Special Education"
+25-2021,"$57,730","Elementary School Teachers, Except Special Education"
+25-2022,"$58,760","Middle School Teachers, Except Special and Career/Technical Education"
+25-2023,"$58,480","Career/Technical Education Teachers, Middle School"
+25-2031,"$60,440","Secondary School Teachers, Except Special and Career/Technical Education"
+25-2032,"$58,170","Career/Technical Education Teachers, Secondary School"
+25-2051,"$58,210","Special Education Teachers, Preschool"
+25-2052,"$58,640","Special Education Teachers, Kindergarten and Elementary School"
+25-2053,"$60,300","Special Education Teachers, Middle School"
+25-2054,"$62,180","Special Education Teachers, Secondary School"
+25-2059,"$57,670","Special Education Teachers, All Other"
+25-3011,"$54,060",Adult Basic and Secondary Education and Literacy Teachers and Instructors
+25-3021,"$42,350",Self-Enrichment Education Teachers
+25-3097,"$47,410","Teachers and Instructors, All Other, Except Substitute Teachers"
+25-3098,"$29,630",Substitute Teachers
+25-4011,"$53,880",Archivists
+25-4012,"$56,990",Curators
+25-4013,"$44,880",Museum Technicians and Conservators
+25-4021,"$58,930",Librarians
+25-4031,"$34,200",Library Technicians
+25-9011,"$48,220",Audio-Visual and Multimedia Collections Specialists
+25-9021,"$51,820",Farm and Home Management Advisors
+25-9031,"$64,870",Instructional Coordinators
+25-9041,"$26,550",Teacher Assistants
+25-9099,"$44,380","Education, Training, and Library Workers, All Other"
+27-1011,"$101,990",Art Directors
+27-1012,"$35,710",Craft Artists
+27-1013,"$54,170","Fine Artists, Including Painters, Sculptors, and Illustrators"
+27-1014,"$70,300",Multimedia Artists and Animators
+27-1019,"$62,130","Artists and Related Workers, All Other"
+27-1021,"$69,820",Commercial and Industrial Designers
+27-1022,"$73,180",Fashion Designers
+27-1023,"$27,010",Floral Designers
+27-1024,"$51,640",Graphic Designers
+27-1025,"$55,510",Interior Designers
+27-1026,"$29,790",Merchandise Displayers and Window Trimmers
+27-1027,"$54,920",Set and Exhibit Designers
+27-1029,"$62,220","Designers, All Other"
+27-2011,(4),Actors
+27-2012,"$89,670",Producers and Directors
+27-2021,"$80,490",Athletes and Sports Competitors
+27-2022,"$40,050",Coaches and Scouts
+27-2023,"$33,990","Umpires, Referees, and Other Sports Officials"
+27-2031,(4),Dancers
+27-2032,"$51,560",Choreographers
+27-2041,"$59,040",Music Directors and Composers
+27-2042,(4),Musicians and Singers
+27-2099,(4),"Entertainers and Performers, Sports and Related Workers, All Other"
+27-3011,"$46,410",Radio and Television Announcers
+27-3012,"$40,440",Public Address System and Other Announcers
+27-3021,"$89,240",Broadcast News Analysts
+27-3022,"$46,560",Reporters and Correspondents
+27-3031,"$65,830",Public Relations Specialists
+27-3041,"$64,910",Editors
+27-3042,"$73,350",Technical Writers
+27-3043,"$69,130",Writers and Authors
+27-3091,"$48,360",Interpreters and Translators
+27-3099,"$52,200","Media and Communication Workers, All Other"
+27-4011,"$46,630",Audio and Video Equipment Technicians
+27-4012,"$44,050",Broadcast Technicians
+27-4013,"$47,200",Radio Operators
+27-4014,"$63,340",Sound Engineering Technicians
+27-4021,"$40,280",Photographers
+27-4031,"$59,360","Camera Operators, Television, Video, and Motion Picture"
+27-4032,"$80,300",Film and Video Editors
+27-4099,"$70,920","Media and Communication Equipment Workers, All Other"
+29-1011,"$78,370",Chiropractors
+29-1021,"$172,350","Dentists, General"
+29-1022,"$233,900",Oral and Maxillofacial Surgeons
+29-1023,"$221,390",Orthodontists
+29-1024,"$161,020",Prosthodontists
+29-1029,"$171,040","Dentists, All Other Specialists"
+29-1031,"$58,410",Dietitians and Nutritionists
+29-1041,"$115,750",Optometrists
+29-1051,"$119,270",Pharmacists
+29-1061,"$258,100",Anesthesiologists
+29-1062,"$192,120",Family and General Practitioners
+29-1063,"$196,520","Internists, General"
+29-1064,"$222,400",Obstetricians and Gynecologists
+29-1065,"$183,180","Pediatricians, General"
+29-1066,"$193,680",Psychiatrists
+29-1067,"$247,520",Surgeons
+29-1069,"$197,700","Physicians and Surgeons, All Other"
+29-1071,"$99,270",Physician Assistants
+29-1081,"$136,180",Podiatrists
+29-1122,"$81,690",Occupational Therapists
+29-1123,"$85,790",Physical Therapists
+29-1124,"$84,460",Radiation Therapists
+29-1125,"$47,790",Recreational Therapists
+29-1126,"$59,640",Respiratory Therapists
+29-1127,"$76,900",Speech-Language Pathologists
+29-1128,"$49,740",Exercise Physiologists
+29-1129,"$59,210","Therapists, All Other"
+29-1131,"$99,000",Veterinarians
+29-1141,"$71,000",Registered Nurses
+29-1151,"$160,250",Nurse Anesthetists
+29-1161,"$93,610",Nurse Midwives
+29-1171,"$101,260",Nurse Practitioners
+29-1181,"$77,420",Audiologists
+29-1199,"$85,120","Health Diagnosing and Treating Practitioners, All Other"
+29-2011,"$61,860",Medical and Clinical Laboratory Technologists
+29-2012,"$41,420",Medical and Clinical Laboratory Technicians
+29-2021,"$72,720",Dental Hygienists
+29-2031,"$56,100",Cardiovascular Technologists and Technicians
+29-2032,"$70,880",Diagnostic Medical Sonographers
+29-2033,"$74,990",Nuclear Medicine Technologists
+29-2034,"$58,520",Radiologic Technologists
+29-2035,"$68,340",Magnetic Resonance Imaging Technologists
+29-2041,"$35,430",Emergency Medical Technicians and Paramedics
+29-2051,"$29,170",Dietetic Technicians
+29-2052,"$31,680",Pharmacy Technicians
+29-2053,"$36,280",Psychiatric Technicians
+29-2054,"$49,720",Respiratory Therapy Technicians
+29-2055,"$45,940",Surgical Technologists
+29-2056,"$33,280",Veterinary Technologists and Technicians
+29-2057,"$36,690",Ophthalmic Medical Technicians
+29-2061,"$44,030",Licensed Practical and Licensed Vocational Nurses
+29-2071,"$40,430",Medical Records and Health Information Technicians
+29-2081,"$36,820","Opticians, Dispensing"
+29-2091,"$69,960",Orthotists and Prosthetists
+29-2092,"$52,850",Hearing Aid Specialists
+29-2099,"$45,730","Health Technologists and Technicians, All Other"
+29-9011,"$71,790",Occupational Health and Safety Specialists
+29-9012,"$51,270",Occupational Health and Safety Technicians
+29-9091,"$46,940",Athletic Trainers
+29-9092,"$74,570",Genetic Counselors
+29-9099,"$56,400","Healthcare Practitioners and Technical Workers, All Other"
+31-1011,"$22,870",Home Health Aides
+31-1013,"$28,170",Psychiatric Aides
+31-1014,"$26,820",Nursing Assistants
+31-1015,"$27,580",Orderlies
+31-2011,"$58,340",Occupational Therapy Assistants
+31-2012,"$31,090",Occupational Therapy Aides
+31-2021,"$55,250",Physical Therapist Assistants
+31-2022,"$27,440",Physical Therapist Aides
+31-9011,"$43,170",Massage Therapists
+31-9091,"$36,920",Dental Assistants
+31-9092,"$31,910",Medical Assistants
+31-9093,"$34,950",Medical Equipment Preparers
+31-9094,"$35,720",Medical Transcriptionists
+31-9095,"$27,460",Pharmacy Aides
+31-9096,"$25,940",Veterinary Assistants and Laboratory Animal Caretakers
+31-9097,"$32,770",Phlebotomists
+31-9099,"$36,920","Healthcare Support Workers, All Other"
+33-1011,"$62,770",First-Line Supervisors of Correctional Officers
+33-1012,"$85,810",First-Line Supervisors of Police and Detectives
+33-1021,"$74,970",First-Line Supervisors of Fire Fighting and Prevention Workers
+33-1099,"$49,540","First-Line Supervisors of Protective Service Workers, All Other"
+33-2011,"$49,330",Firefighters
+33-2021,"$59,800",Fire Inspectors and Investigators
+33-2022,"$44,740",Forest Fire Inspectors and Prevention Specialists
+33-3011,"$44,900",Bailiffs
+33-3012,"$45,320",Correctional Officers and Jailers
+33-3021,"$79,620",Detectives and Criminal Investigators
+33-3031,"$54,970",Fish and Game Wardens
+33-3041,"$38,280",Parking Enforcement Workers
+33-3051,"$61,270",Police and Sheriff's Patrol Officers
+33-3052,"$62,090",Transit and Railroad Police
+33-9011,"$35,330",Animal Control Workers
+33-9021,"$52,840",Private Detectives and Investigators
+33-9031,"$33,880",Gaming Surveillance Officers and Gaming Investigators
+33-9032,"$28,460",Security Guards
+33-9091,"$27,730",Crossing Guards
+33-9092,"$21,930","Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers"
+33-9093,"$40,050",Transportation Security Screeners
+33-9099,"$32,690","Protective Service Workers, All Other"
+35-1011,"$45,920",Chefs and Head Cooks
+35-1012,"$33,330",First-Line Supervisors of Food Preparation and Serving Workers
+35-2011,"$19,610","Cooks, Fast Food"
+35-2012,"$25,560","Cooks, Institution and Cafeteria"
+35-2013,"$37,680","Cooks, Private Household"
+35-2014,"$24,430","Cooks, Restaurant"
+35-2015,"$21,940","Cooks, Short Order"
+35-2019,"$28,240","Cooks, All Other"
+35-2021,"$22,050",Food Preparation Workers
+35-3011,"$24,110",Bartenders
+35-3021,"$19,710","Combined Food Preparation and Serving Workers, Including Fast Food"
+35-3022,"$20,590","Counter Attendants, Cafeteria, Food Concession, and Coffee Shop"
+35-3031,"$23,020",Waiters and Waitresses
+35-3041,"$23,010","Food Servers, Nonrestaurant"
+35-9011,"$21,400",Dining Room and Cafeteria Attendants and Bartender Helpers
+35-9021,"$20,360",Dishwashers
+35-9031,"$20,530","Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop"
+35-9099,"$23,060","Food Preparation and Serving Related Workers, All Other"
+37-1011,"$40,060",First-Line Supervisors of Housekeeping and Janitorial Workers
+37-1012,"$46,900","First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers"
+37-2011,"$26,180","Janitors and Cleaners, Except Maids and Housekeeping Cleaners"
+37-2012,"$22,990",Maids and Housekeeping Cleaners
+37-2019,"$30,200","Building Cleaning Workers, All Other"
+37-2021,"$34,080",Pest Control Workers
+37-3011,"$27,460",Landscaping and Groundskeeping Workers
+37-3012,"$34,570","Pesticide Handlers, Sprayers, and Applicators, Vegetation"
+37-3013,"$36,030",Tree Trimmers and Pruners
+37-3019,"$33,340","Grounds Maintenance Workers, All Other"
+39-1011,"$50,130",Gaming Supervisors
+39-1012,"$37,550",Slot Supervisors
+39-1021,"$38,670",First-Line Supervisors of Personal Service Workers
+39-2011,"$33,600",Animal Trainers
+39-2021,"$23,630",Nonfarm Animal Caretakers
+39-3011,"$21,810",Gaming Dealers
+39-3012,"$26,170",Gaming and Sports Book Writers and Runners
+39-3019,"$26,380","Gaming Service Workers, All Other"
+39-3021,"$24,540",Motion Picture Projectionists
+39-3031,"$21,060","Ushers, Lobby Attendants, and Ticket Takers"
+39-3091,"$21,360",Amusement and Recreation Attendants
+39-3092,"$52,870",Costume Attendants
+39-3093,"$23,990","Locker Room, Coatroom, and Dressing Room Attendants"
+39-3099,"$24,110","Entertainment Attendants and Related Workers, All Other"
+39-4011,"$41,490",Embalmers
+39-4021,"$25,840",Funeral Attendants
+39-4031,"$52,990","Morticians, Undertakers, and Funeral Directors"
+39-5011,"$29,140",Barbers
+39-5012,"$28,770","Hairdressers, Hairstylists, and Cosmetologists"
+39-5091,"$66,560","Makeup Artists, Theatrical and Performance"
+39-5092,"$23,630",Manicurists and Pedicurists
+39-5093,"$20,350",Shampooers
+39-5094,"$35,300",Skincare Specialists
+39-6011,"$24,430",Baggage Porters and Bellhops
+39-6012,"$30,870",Concierges
+39-7011,"$26,920",Tour Guides and Escorts
+39-7012,"$36,920",Travel Guides
+39-9011,"$22,310",Childcare Workers
+39-9021,"$21,790",Personal Care Aides
+39-9031,"$40,970",Fitness Trainers and Aerobics Instructors
+39-9032,"$26,610",Recreation Workers
+39-9041,"$27,140",Residential Advisors
+39-9099,"$24,950","Personal Care and Service Workers, All Other"
+41-1011,"$42,900",First-Line Supervisors of Retail Sales Workers
+41-1012,"$84,910",First-Line Supervisors of Non-Retail Sales Workers
+41-2011,"$20,990",Cashiers
+41-2012,"$24,620",Gaming Change Persons and Booth Cashiers
+41-2021,"$28,210",Counter and Rental Clerks
+41-2022,"$32,750",Parts Salespersons
+41-2031,"$26,340",Retail Salespersons
+41-3011,"$61,690",Advertising Sales Agents
+41-3021,"$64,790",Insurance Sales Agents
+41-3031,"$102,860","Securities, Commodities, and Financial Services Sales Agents"
+41-3041,"$38,750",Travel Agents
+41-3099,"$62,360","Sales Representatives, Services, All Other"
+41-4011,"$89,170","Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products"
+41-4012,"$66,790","Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products"
+41-9011,"$29,720",Demonstrators and Product Promoters
+41-9012,"$37,240",Models
+41-9021,"$80,210",Real Estate Brokers
+41-9022,"$58,410",Real Estate Sales Agents
+41-9031,"$107,160",Sales Engineers
+41-9041,"$26,470",Telemarketers
+41-9091,"$26,160","Door-to-Door Sales Workers, News and Street Vendors, and Related Workers"
+41-9099,"$40,540","Sales and Related Workers, All Other"
+43-1011,"$56,170",First-Line Supervisors of Office and Administrative Support Workers
+43-2011,"$28,990","Switchboard Operators, Including Answering Service"
+43-2021,"$40,820",Telephone Operators
+43-2099,"$41,990","Communications Equipment Operators, All Other"
+43-3011,"$36,600",Bill and Account Collectors
+43-3021,"$36,300",Billing and Posting Clerks
+43-3031,"$38,990","Bookkeeping, Accounting, and Auditing Clerks"
+43-3041,"$27,780",Gaming Cage Workers
+43-3051,"$42,130",Payroll and Timekeeping Clerks
+43-3061,"$41,010",Procurement Clerks
+43-3071,"$27,260",Tellers
+43-3099,"$42,270","Financial Clerks, All Other"
+43-4011,"$51,640",Brokerage Clerks
+43-4021,"$36,340",Correspondence Clerks
+43-4031,"$38,230","Court, Municipal, and License Clerks"
+43-4041,"$37,920","Credit Authorizers, Checkers, and Clerks"
+43-4051,"$34,560",Customer Service Representatives
+43-4061,"$43,040","Eligibility Interviewers, Government Programs"
+43-4071,"$29,900",File Clerks
+43-4081,"$22,610","Hotel, Motel, and Resort Desk Clerks"
+43-4111,"$32,930","Interviewers, Except Eligibility and Loan"
+43-4121,"$26,580","Library Assistants, Clerical"
+43-4131,"$39,210",Loan Interviewers and Clerks
+43-4141,"$35,820",New Accounts Clerks
+43-4151,"$34,080",Order Clerks
+43-4161,"$39,180","Human Resources Assistants, Except Payroll and Timekeeping"
+43-4171,"$28,430",Receptionists and Information Clerks
+43-4181,"$36,780",Reservation and Transportation Ticket Agents and Travel Clerks
+43-4199,"$38,770","Information and Record Clerks, All Other"
+43-5011,"$44,470",Cargo and Freight Agents
+43-5021,"$29,130",Couriers and Messengers
+43-5031,"$40,000","Police, Fire, and Ambulance Dispatchers"
+43-5032,"$40,210","Dispatchers, Except Police, Fire, and Ambulance"
+43-5041,"$40,900","Meter Readers, Utilities"
+43-5051,"$49,090",Postal Service Clerks
+43-5052,"$51,130",Postal Service Mail Carriers
+43-5053,"$50,650","Postal Service Mail Sorters, Processors, and Processing Machine Operators"
+43-5061,"$48,210","Production, Planning, and Expediting Clerks"
+43-5071,"$32,350","Shipping, Receiving, and Traffic Clerks"
+43-5081,"$25,940",Stock Clerks and Order Fillers
+43-5111,"$30,980","Weighers, Measurers, Checkers, and Samplers, Recordkeeping"
+43-6011,"$55,460",Executive Secretaries and Executive Administrative Assistants
+43-6012,"$46,470",Legal Secretaries
+43-6013,"$34,330",Medical Secretaries
+43-6014,"$35,200","Secretaries and Administrative Assistants, Except Legal, Medical, and Executive"
+43-9011,"$42,140",Computer Operators
+43-9021,"$30,810",Data Entry Keyers
+43-9022,"$38,710",Word Processors and Typists
+43-9031,"$43,900",Desktop Publishers
+43-9041,"$39,560",Insurance Claims and Policy Processing Clerks
+43-9051,"$29,930","Mail Clerks and Mail Machine Operators, Except Postal Service"
+43-9061,"$31,890","Office Clerks, General"
+43-9071,"$30,980","Office Machine Operators, Except Computer"
+43-9081,"$37,690",Proofreaders and Copy Markers
+43-9111,"$44,220",Statistical Assistants
+43-9199,"$34,730","Office and Administrative Support Workers, All Other"
+45-1011,"$48,290","First-Line Supervisors of Farming, Fishing, and Forestry Workers"
+45-2011,"$43,810",Agricultural Inspectors
+45-2021,"$44,650",Animal Breeders
+45-2041,"$23,260","Graders and Sorters, Agricultural Products"
+45-2091,"$29,380",Agricultural Equipment Operators
+45-2092,"$22,130","Farmworkers and Laborers, Crop, Nursery, and Greenhouse"
+45-2093,"$26,160","Farmworkers, Farm, Ranch, and Aquacultural Animals"
+45-2099,"$31,850","Agricultural Workers, All Other"
+45-3011,"$29,970",Fishers and Related Fishing Workers
+45-4011,"$29,860",Forest and Conservation Workers
+45-4021,"$41,750",Fallers
+45-4022,"$36,930",Logging Equipment Operators
+45-4023,"$37,420",Log Graders and Scalers
+45-4029,"$36,210","Logging Workers, All Other"
+47-1011,"$66,820",First-Line Supervisors of Construction Trades and Extraction Workers
+47-2011,"$60,660",Boilermakers
+47-2021,"$51,750",Brickmasons and Blockmasons
+47-2022,"$42,970",Stonemasons
+47-2031,"$46,780",Carpenters
+47-2041,"$43,210",Carpet Installers
+47-2042,"$42,520","Floor Layers, Except Carpet, Wood, and Hard Tiles"
+47-2043,"$38,160",Floor Sanders and Finishers
+47-2044,"$44,010",Tile and Marble Setters
+47-2051,"$42,080",Cement Masons and Concrete Finishers
+47-2053,"$46,050",Terrazzo Workers and Finishers
+47-2061,"$36,550",Construction Laborers
+47-2071,"$43,020","Paving, Surfacing, and Tamping Equipment Operators"
+47-2072,"$55,150",Pile-Driver Operators
+47-2073,"$49,110",Operating Engineers and Other Construction Equipment Operators
+47-2081,"$45,510",Drywall and Ceiling Tile Installers
+47-2082,"$53,080",Tapers
+47-2111,"$55,590",Electricians
+47-2121,"$45,420",Glaziers
+47-2131,"$38,810","Insulation Workers, Floor, Ceiling, and Wall"
+47-2132,"$49,970","Insulation Workers, Mechanical"
+47-2141,"$40,540","Painters, Construction and Maintenance"
+47-2142,"$36,610",Paperhangers
+47-2151,"$41,910",Pipelayers
+47-2152,"$55,100","Plumbers, Pipefitters, and Steamfitters"
+47-2161,"$42,070",Plasterers and Stucco Masons
+47-2171,"$54,030",Reinforcing Iron and Rebar Workers
+47-2181,"$40,630",Roofers
+47-2211,"$49,810",Sheet Metal Workers
+47-2221,"$54,750",Structural Iron and Steel Workers
+47-2231,"$40,070",Solar Photovoltaic Installers
+47-3011,"$32,090","Helpers--Brickmasons, Blockmasons, Stonemasons, and Tile and Marble Setters"
+47-3012,"$29,200",Helpers--Carpenters
+47-3013,"$30,000",Helpers--Electricians
+47-3014,"$27,690","Helpers--Painters, Paperhangers, Plasterers, and Stucco Masons"
+47-3015,"$29,950","Helpers--Pipelayers, Plumbers, Pipefitters, and Steamfitters"
+47-3016,"$27,820",Helpers--Roofers
+47-3019,"$30,500","Helpers, Construction Trades, All Other"
+47-4011,"$60,030",Construction and Building Inspectors
+47-4021,"$77,350",Elevator Installers and Repairers
+47-4031,"$34,840",Fence Erectors
+47-4041,"$44,150",Hazardous Materials Removal Workers
+47-4051,"$38,200",Highway Maintenance Workers
+47-4061,"$51,340",Rail-Track Laying and Maintenance Equipment Operators
+47-4071,"$37,880",Septic Tank Servicers and Sewer Pipe Cleaners
+47-4091,"$31,820",Segmental Pavers
+47-4099,"$39,500","Construction and Related Workers, All Other"
+47-5011,"$50,710","Derrick Operators, Oil and Gas"
+47-5012,"$60,380","Rotary Drill Operators, Oil and Gas"
+47-5013,"$50,150","Service Unit Operators, Oil, Gas, and Mining"
+47-5021,"$51,840","Earth Drillers, Except Oil and Gas"
+47-5031,"$52,580","Explosives Workers, Ordnance Handling Experts, and Blasters"
+47-5041,"$50,660",Continuous Mining Machine Operators
+47-5042,"$50,720",Mine Cutting and Channeling Machine Operators
+47-5049,"$49,270","Mining Machine Operators, All Other"
+47-5051,"$34,870","Rock Splitters, Quarry"
+47-5061,"$55,500","Roof Bolters, Mining"
+47-5071,"$38,700","Roustabouts, Oil and Gas"
+47-5081,"$37,080",Helpers--Extraction Workers
+47-5099,"$49,140","Extraction Workers, All Other"
+49-1011,"$65,890","First-Line Supervisors of Mechanics, Installers, and Repairers"
+49-2011,"$38,990","Computer, Automated Teller, and Office Machine Repairers"
+49-2021,"$52,940","Radio, Cellular, and Tower Equipment Installers and Repairers"
+49-2022,"$54,510","Telecommunications Equipment Installers and Repairers, Except Line Installers"
+49-2091,"$60,200",Avionics Technicians
+49-2092,"$43,760","Electric Motor, Power Tool, and Related Repairers"
+49-2093,"$59,080","Electrical and Electronics Installers and Repairers, Transportation Equipment"
+49-2094,"$56,670","Electrical and Electronics Repairers, Commercial and Industrial Equipment"
+49-2095,"$72,450","Electrical and Electronics Repairers, Powerhouse, Substation, and Relay"
+49-2096,"$33,500","Electronic Equipment Installers and Repairers, Motor Vehicles"
+49-2097,"$39,670",Electronic Home Entertainment Equipment Installers and Repairers
+49-2098,"$44,860",Security and Fire Alarm Systems Installers
+49-3011,"$60,160",Aircraft Mechanics and Service Technicians
+49-3021,"$44,590",Automotive Body and Related Repairers
+49-3022,"$35,210",Automotive Glass Installers and Repairers
+49-3023,"$40,720",Automotive Service Technicians and Mechanics
+49-3031,"$46,110",Bus and Truck Mechanics and Diesel Engine Specialists
+49-3041,"$38,510",Farm Equipment Mechanics and Service Technicians
+49-3042,"$50,080","Mobile Heavy Equipment Mechanics, Except Engines"
+49-3043,"$54,130",Rail Car Repairers
+49-3051,"$39,500",Motorboat Mechanics and Service Technicians
+49-3052,"$36,240",Motorcycle Mechanics
+49-3053,"$34,520",Outdoor Power Equipment and Other Small Engine Mechanics
+49-3091,"$27,900",Bicycle Repairers
+49-3092,"$37,380",Recreational Vehicle Service Technicians
+49-3093,"$26,310",Tire Repairers and Changers
+49-9011,"$39,900",Mechanical Door Repairers
+49-9012,"$55,760","Control and Valve Installers and Repairers, Except Mechanical Door"
+49-9021,"$47,380","Heating, Air Conditioning, and Refrigeration Mechanics and Installers"
+49-9031,"$38,820",Home Appliance Repairers
+49-9041,"$51,470",Industrial Machinery Mechanics
+49-9043,"$44,540","Maintenance Workers, Machinery"
+49-9044,"$52,650",Millwrights
+49-9045,"$48,920","Refractory Materials Repairers, Except Brickmasons"
+49-9051,"$65,650",Electrical Power-Line Installers and Repairers
+49-9052,"$54,200",Telecommunications Line Installers and Repairers
+49-9061,"$42,510",Camera and Photographic Equipment Repairers
+49-9062,"$49,400",Medical Equipment Repairers
+49-9063,"$38,590",Musical Instrument Repairers and Tuners
+49-9064,"$37,110",Watch Repairers
+49-9069,"$54,110","Precision Instrument and Equipment Repairers, All Other"
+49-9071,"$38,950","Maintenance and Repair Workers, General"
+49-9081,"$53,030",Wind Turbine Service Technicians
+49-9091,"$34,260","Coin, Vending, and Amusement Machine Servicers and Repairers"
+49-9092,"$54,640",Commercial Divers
+49-9093,"$25,840","Fabric Menders, Except Garment"
+49-9094,"$41,270",Locksmiths and Safe Repairers
+49-9095,"$33,150",Manufactured Building and Mobile Home Installers
+49-9096,"$47,770",Riggers
+49-9097,"$62,650",Signal and Track Switch Repairers
+49-9098,"$28,530","Helpers--Installation, Maintenance, and Repair Workers"
+49-9099,"$41,120","Installation, Maintenance, and Repair Workers, All Other"
+51-1011,"$59,930",First-Line Supervisors of Production and Operating Workers
+51-2011,"$51,040","Aircraft Structure, Surfaces, Rigging, and Systems Assemblers"
+51-2021,"$32,990","Coil Winders, Tapers, and Finishers"
+51-2022,"$33,260",Electrical and Electronic Equipment Assemblers
+51-2023,"$35,140",Electromechanical Equipment Assemblers
+51-2031,"$41,750",Engine and Other Machine Assemblers
+51-2041,"$39,040",Structural Metal Fabricators and Fitters
+51-2091,"$30,760",Fiberglass Laminators and Fabricators
+51-2092,"$31,560",Team Assemblers
+51-2093,"$41,510",Timing Device Assemblers and Adjusters
+51-2099,"$29,920","Assemblers and Fabricators, All Other"
+51-3011,"$26,270",Bakers
+51-3021,"$30,940",Butchers and Meat Cutters
+51-3022,"$24,810","Meat, Poultry, and Fish Cutters and Trimmers"
+51-3023,"$26,420",Slaughterers and Meat Packers
+51-3091,"$30,320","Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders"
+51-3092,"$29,210",Food Batchmakers
+51-3093,"$29,430",Food Cooking Machine Operators and Tenders
+51-3099,"$25,220","Food Processing Workers, All Other"
+51-4011,"$38,720","Computer-Controlled Machine Tool Operators, Metal and Plastic"
+51-4012,"$51,630","Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic"
+51-4021,"$34,580","Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic"
+51-4022,"$36,910","Forging Machine Setters, Operators, and Tenders, Metal and Plastic"
+51-4023,"$41,200","Rolling Machine Setters, Operators, and Tenders, Metal and Plastic"
+51-4031,"$33,030","Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic"
+51-4032,"$37,660","Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+51-4033,"$34,560","Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+51-4034,"$38,080","Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+51-4035,"$39,620","Milling and Planing Machine Setters, Operators, and Tenders, Metal and Plastic"
+51-4041,"$42,120",Machinists
+51-4051,"$42,790",Metal-Refining Furnace Operators and Tenders
+51-4052,"$35,390","Pourers and Casters, Metal"
+51-4061,"$48,210","Model Makers, Metal and Plastic"
+51-4062,"$41,500","Patternmakers, Metal and Plastic"
+51-4071,"$33,930",Foundry Mold and Coremakers
+51-4072,"$31,510","Molding, Coremaking, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic"
+51-4081,"$35,380","Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic"
+51-4111,"$51,130",Tool and Die Makers
+51-4121,"$40,970","Welders, Cutters, Solderers, and Brazers"
+51-4122,"$37,590","Welding, Soldering, and Brazing Machine Setters, Operators, and Tenders"
+51-4191,"$38,420","Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic"
+51-4192,"$46,430","Layout Workers, Metal and Plastic"
+51-4193,"$32,930","Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic"
+51-4194,"$37,590","Tool Grinders, Filers, and Sharpeners"
+51-4199,"$35,910","Metal Workers and Plastic Workers, All Other"
+51-5111,"$40,060",Prepress Technicians and Workers
+51-5112,"$37,020",Printing Press Operators
+51-5113,"$32,170",Print Binding and Finishing Workers
+51-6011,"$22,660",Laundry and Dry-Cleaning Workers
+51-6021,"$21,640","Pressers, Textile, Garment, and Related Materials"
+51-6031,"$24,680",Sewing Machine Operators
+51-6041,"$25,570",Shoe and Leather Workers and Repairers
+51-6042,"$25,560",Shoe Machine Operators and Tenders
+51-6051,"$24,980","Sewers, Hand"
+51-6052,"$28,630","Tailors, Dressmakers, and Custom Sewers"
+51-6061,"$27,660",Textile Bleaching and Dyeing Machine Operators and Tenders
+51-6062,"$26,950","Textile Cutting Machine Setters, Operators, and Tenders"
+51-6063,"$28,150","Textile Knitting and Weaving Machine Setters, Operators, and Tenders"
+51-6064,"$27,580","Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders"
+51-6091,"$34,190","Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibers"
+51-6092,"$49,040",Fabric and Apparel Patternmakers
+51-6093,"$33,550",Upholsterers
+51-6099,"$29,720","Textile, Apparel, and Furnishings Workers, All Other"
+51-7011,"$33,980",Cabinetmakers and Bench Carpenters
+51-7021,"$30,920",Furniture Finishers
+51-7031,"$38,330","Model Makers, Wood"
+51-7032,"$41,550","Patternmakers, Wood"
+51-7041,"$29,190","Sawing Machine Setters, Operators, and Tenders, Wood"
+51-7042,"$29,090","Woodworking Machine Setters, Operators, and Tenders, Except Sawing"
+51-7099,"$32,130","Woodworkers, All Other"
+51-8011,"$88,820",Nuclear Power Reactor Operators
+51-8012,"$80,400",Power Distributors and Dispatchers
+51-8013,"$71,070",Power Plant Operators
+51-8021,"$60,480",Stationary Engineers and Boiler Operators
+51-8031,"$46,790",Water and Wastewater Treatment Plant and System Operators
+51-8091,"$59,070",Chemical Plant and System Operators
+51-8092,"$65,830",Gas Plant Operators
+51-8093,"$66,020","Petroleum Pump System Operators, Refinery Operators, and Gaugers"
+51-8099,"$55,530","Plant and System Operators, All Other"
+51-9011,"$49,640",Chemical Equipment Operators and Tenders
+51-9012,"$41,210","Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders"
+51-9021,"$35,560","Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders"
+51-9022,"$30,370","Grinding and Polishing Workers, Hand"
+51-9023,"$36,410","Mixing and Blending Machine Setters, Operators, and Tenders"
+51-9031,"$28,850","Cutters and Trimmers, Hand"
+51-9032,"$33,250","Cutting and Slicing Machine Setters, Operators, and Tenders"
+51-9041,"$34,030","Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders"
+51-9051,"$36,970","Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders"
+51-9061,"$39,410","Inspectors, Testers, Sorters, Samplers, and Weighers"
+51-9071,"$42,380",Jewelers and Precious Stone and Metal Workers
+51-9081,"$40,520",Dental Laboratory Technicians
+51-9082,"$39,020",Medical Appliance Technicians
+51-9083,"$32,970",Ophthalmic Laboratory Technicians
+51-9111,"$29,770",Packaging and Filling Machine Operators and Tenders
+51-9121,"$33,610","Coating, Painting, and Spraying Machine Setters, Operators, and Tenders"
+51-9122,"$44,920","Painters, Transportation Equipment"
+51-9123,"$31,210","Painting, Coating, and Decorating Workers"
+51-9141,"$37,600",Semiconductor Processors
+51-9151,"$30,720",Photographic Process Workers and Processing Machine Operators
+51-9191,"$33,750",Adhesive Bonding Machine Operators and Tenders
+51-9192,"$29,910","Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders"
+51-9193,"$31,490",Cooling and Freezing Equipment Operators and Tenders
+51-9194,"$31,880",Etchers and Engravers
+51-9195,"$31,690","Molders, Shapers, and Casters, Except Metal and Plastic"
+51-9196,"$37,160","Paper Goods Machine Setters, Operators, and Tenders"
+51-9197,"$40,230",Tire Builders
+51-9198,"$26,010",Helpers--Production Workers
+51-9199,"$31,520","Production Workers, All Other"
+53-1011,"$48,870",Aircraft Cargo Handling Supervisors
+53-1021,"$49,670","First-Line Supervisors of Helpers, Laborers, and Material Movers, Hand"
+53-1031,"$58,470",First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators
+53-2011,"$136,400","Airline Pilots, Copilots, and Flight Engineers"
+53-2012,"$84,510",Commercial Pilots
+53-2021,"$118,740",Air Traffic Controllers
+53-2022,"$55,400",Airfield Operations Specialists
+53-2031,"$46,750",Flight Attendants
+53-3011,"$25,470","Ambulance Drivers and Attendants, Except Emergency Medical Technicians"
+53-3021,"$40,160","Bus Drivers, Transit and Intercity"
+53-3022,"$30,580","Bus Drivers, School or Special Client"
+53-3031,"$27,890",Driver/Sales Workers
+53-3032,"$42,500",Heavy and Tractor-Trailer Truck Drivers
+53-3033,"$34,080",Light Truck or Delivery Services Drivers
+53-3041,"$26,070",Taxi Drivers and Chauffeurs
+53-3099,"$33,430","Motor Vehicle Operators, All Other"
+53-4011,"$59,360",Locomotive Engineers
+53-4012,"$54,540",Locomotive Firers
+53-4013,"$47,600","Rail Yard Engineers, Dinkey Operators, and Hostlers"
+53-4021,"$53,990","Railroad Brake, Signal, and Switch Operators"
+53-4031,"$56,760",Railroad Conductors and Yardmasters
+53-4041,"$60,580",Subway and Streetcar Operators
+53-4099,"$58,760","Rail Transportation Workers, All Other"
+53-5011,"$42,910",Sailors and Marine Oilers
+53-5021,"$83,150","Captains, Mates, and Pilots of Water Vessels"
+53-5022,"$41,350",Motorboat Operators
+53-5031,"$78,970",Ship Engineers
+53-6011,"$45,980",Bridge and Lock Tenders
+53-6021,"$22,520",Parking Lot Attendants
+53-6031,"$23,440",Automotive and Watercraft Service Attendants
+53-6041,"$47,660",Traffic Technicians
+53-6051,"$72,220",Transportation Inspectors
+53-6061,"$30,540","Transportation Attendants, Except Flight Attendants"
+53-6099,"$38,520","Transportation Workers, All Other"
+53-7011,"$35,100",Conveyor Operators and Tenders
+53-7021,"$54,560",Crane and Tower Operators
+53-7031,"$44,040",Dredge Operators
+53-7032,"$44,520",Excavating and Loading Machine and Dragline Operators
+53-7033,"$49,740","Loading Machine Operators, Underground Mining"
+53-7041,"$50,680",Hoist and Winch Operators
+53-7051,"$34,090",Industrial Truck and Tractor Operators
+53-7061,"$23,940",Cleaners of Vehicles and Equipment
+53-7062,"$27,840","Laborers and Freight, Stock, and Material Movers, Hand"
+53-7063,"$30,960",Machine Feeders and Offbearers
+53-7064,"$23,710","Packers and Packagers, Hand"
+53-7071,"$57,510",Gas Compressor and Gas Pumping Station Operators
+53-7072,"$46,200","Pump Operators, Except Wellhead Pumpers"
+53-7073,"$48,180",Wellhead Pumpers
+53-7081,"$36,370",Refuse and Recyclable Material Collectors
+53-7111,"$55,120",Mine Shuttle Car Operators
+53-7121,"$41,010","Tank Car, Truck, and Ship Loaders"
+53-7199,"$37,060","Material Moving Workers, All Other"

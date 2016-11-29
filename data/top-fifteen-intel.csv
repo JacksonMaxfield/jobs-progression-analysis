@@ -1,0 +1,16 @@
+nextJobOne,company,CaBRating,state,id,city,CORating,nextJobTwo,numJobs,SLRating,WLBRating,similarBLSSalary,title,jobId,similarBLSJob,CaVRating
+,Intel,3.9,OH,2440,Wright Patterson,3.5,,1,2.9,3.6,93250,Engineering Data Analyst,318943,Information Security Analysts,3.6
+,Intel,3.9,CA,3963,Woodland,3.5,,5,2.9,3.6,93250,Technical Project Analyst,243268,Information Security Analysts,3.6
+director,Intel,3.9,CA,3967,Woodland,3.5,,4,2.9,3.6,93250,Supply Chain Analyst,26415,Information Security Analysts,3.6
+,Intel,3.9,VA,3850,Woodbridge,3.5,,7,2.9,3.6,93250,Intel Analyst,9832,Information Security Analysts,3.6
+,Intel,3.9,VA,3855,Woodbridge,3.5,,5,2.9,3.6,93250,All Source Intel Analyst,632008,Information Security Analysts,3.6
+systems analyst,Intel,3.9,VA,3863,Woodbridge,3.5,c4isenior new equipment tester,2,2.9,3.6,93250,Imagery Analyst,16548,Information Security Analysts,3.6
+,Intel,3.9,VA,3868,Woodbridge,3.5,,1,2.9,3.6,93250,Cyber Security Threat Intelligence Analyst,736254,Information Security Analysts,3.6
+,Intel,3.9,VA,3869,Woodbridge,3.5,,1,2.9,3.6,93250,Information Security Intern,245540,Information Security Analysts,3.6
+,Intel,3.9,VA,3875,Woodbridge,3.5,,1,2.9,3.6,93250,Junior Security Analyst,88763,Information Security Analysts,3.6
+,Intel,3.9,MA,2363,Woburn,3.5,,4,2.9,3.6,93250,GEOINT Analyst,281825,Information Security Analysts,3.6
+system administrator,Intel,3.9,MA,2370,Woburn,3.5,contractor,1,2.9,3.6,93250,Desktop Support Analyst,40834,Information Security Analysts,3.6
+sigint analyst,Intel,3.9,MA,2371,Woburn,3.5,junior level intelligence analyst,1,2.9,3.6,93250,Intelligence Analyst,9849,Information Security Analysts,3.6
+senior analyst,Intel,3.9,MA,2376,Woburn,3.5,investment analyst,1,2.9,3.6,93250,Portfolio Analyst,41561,Information Security Analysts,3.6
+,Intel,3.9,FL,2657,Winter Garden,3.5,,2,2.9,3.6,93250,Security Analyst I,182433,Information Security Analysts,3.6
+security engineer,Intel,3.9,FL,2658,Winter Garden,3.5,,1,2.9,3.6,93250,Security Analyst,44304,Information Security Analysts,3.6

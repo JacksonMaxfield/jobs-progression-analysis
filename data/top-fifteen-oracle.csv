@@ -1,0 +1,16 @@
+nextJobOne,company,CaBRating,state,numJobs,id,similarBLSSalary,CORating,city,nextJobTwo,SLRating,WLBRating,CaVRating,jobId,similarBLSJob,title
+,Oracle,3.1,GA,3,38,93250,3.2,Atlanta,,2.9,3.7,3.2,239468,Information Security Analysts,Oracle Applications Support Analyst
+,Oracle,3.1,TX,3,164,93250,3.2,Austin,,2.9,3.7,3.2,82597,Information Security Analysts,Database Support Analyst
+senior computer operator,Oracle,3.1,FL,5,203,93250,3.2,Tampa,security administrator,2.9,3.7,3.2,65451,Information Security Analysts,Applications Support Analyst
+,Oracle,3.1,FL,2,229,93250,3.2,Tampa,,2.9,3.7,3.2,67641,Information Security Analysts,Applications Support Analyst I
+,Oracle,3.1,TX,3,296,93250,3.2,Houston,,2.9,3.7,3.2,245540,Information Security Analysts,Information Security Intern
+programmer analyst,Oracle,3.1,MN,2,684,93250,3.2,Minneapolis,organizational mapping analyst,2.9,3.7,3.2,26624,Information Security Analysts,Financial Data Analyst
+senior computer operator,Oracle,3.1,TN,1,1136,93250,3.2,Memphis,security administrator,2.9,3.7,3.2,65451,Information Security Analysts,Applications Support Analyst
+,Oracle,3.1,ID,4,1142,93250,3.2,Boise,,2.9,3.7,3.2,46087,Information Security Analysts,Data Acquisition Analyst
+senior programmer analyst,Oracle,3.1,CT,2,1178,93250,3.2,Stamford,manager,2.9,3.7,3.2,29211,Information Security Analysts,Information Officer
+programmer analyst,Oracle,3.1,MN,2,1296,93250,3.2,Saint Paul,organizational mapping analyst,2.9,3.7,3.2,26624,Information Security Analysts,Financial Data Analyst
+senior quality assurance analyst,Oracle,3.1,OH,1,2107,93250,3.2,Independence,,2.9,3.7,3.2,30626,Information Security Analysts,Software Quality Assurance Analyst
+,Oracle,3.1,GA,3,2209,93250,3.2,Alpharetta,,2.9,3.7,3.2,239468,Information Security Analysts,Oracle Applications Support Analyst
+senior quality assurance analyst,Oracle,3.1,OH,1,2462,93250,3.2,Cleveland,,2.9,3.7,3.2,30626,Information Security Analysts,Software Quality Assurance Analyst
+programmer analyst,Oracle,3.1,MN,2,2678,93250,3.2,Bloomington,organizational mapping analyst,2.9,3.7,3.2,26624,Information Security Analysts,Financial Data Analyst
+,Oracle,3.1,VA,3,2931,93250,3.2,Norfolk,,2.9,3.7,3.2,82521,Information Security Analysts,Data Integrity Analyst

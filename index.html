@@ -41,7 +41,7 @@
 				</div>
 
 				<div id="summary" class="content-section">
-					<h2 class="section-title">Summary&nbsp;of&nbsp;Project:</h1>
+					<h2 id="ss-1" class="section-title">Summary&nbsp;of&nbsp;Project:</h1>
 					<p class="content-text">Glassdoor is an online website and service for employers to post job-ads and for employees and individuals to view and rate companies. The company aims to provide transparency between employers and employees because they believe that doing so creates huge benefits to employers, employees, and job seekers.</p>
 					<p class="content-text">The question our project aims to answer is <i>“What are the best geographical locations in the U.S to start a career at in terms of quality of life and job progression for new graduates in tech-related fields in 2016?”</i></p>
 					<p class="content-text">We firmly believe that making decisions according to data, rather than solely relying on intuition enables newly graduates to make better, informed choices when contemplating where to start a career in terms of quality of life and professional development prospects.</p>
@@ -50,11 +50,11 @@
 
 				<div id="method" class="content-section method">
 					<h2 class="section-title">Method:</h2>
-					<div class="method-content">
+					<div id="ss-2" class="method-content">
 						<ul>
 							<li class="content-text">We start by creating a list of the top 7 U.S Technology companies from NASDAQ's set of company lists by Industry.<a href="#fn-2" class="fn-toward transition-all-100"><sup>[2]</sup></a></li>
 							<li class="content-text">For each company, obtain a list of all locations they offer positions in. We do this by querying the Glassdoor API with just the company name and asking for cities and states back.</li>
-							<li class="content-text">After retrieving each companies location, obtain jobs statistics from Glassdoor by querying the API with the company's location (city and state) and name. Then, we filtered the results by excluding all elements from our jobs list that include the following words which denote seniority as used by LinkedIn job filtering tools:<a href="#fn-3" class="fn-toward transition-all-100"><sup>[3]</sup></a></li>
+							<li id="ss-3"class="content-text">After retrieving each companies location, obtain jobs statistics from Glassdoor by querying the API with the company's location (city and state) and name. Then, we filtered the results by excluding all elements from our jobs list that include the following words which denote seniority as used by LinkedIn job filtering tools:<a href="#fn-3" class="fn-toward transition-all-100"><sup>[3]</sup></a></li>
 							<ul>
 								<li class="content-text wrapLi"><i>'Chief'</i>,</li>
 								<li class="content-text wrapLi"><i>'Director'</i>,</li>
@@ -71,7 +71,7 @@
 								<li class="content-text wrapLi"><i>'VP'</i>,</li>
 								<li class="content-text wrapLi"><i>'Vice President'</i></li>
 							</ul>
-							<li class="content-text">We gathered data from the May 2015 Metropolitan and Nonmetropolitan Area Occupational Employment and Wage Estimates from the U.S Bureau of Labor Statistics for the national and city/county levels. This data was filtered by including job titles that contain the following keywords:<a href="#fn-4" class="fn-toward transition-all-100"><sup>[4]</sup></a>
+							<li id="ss-4" class="content-text">We gathered data from the May 2015 Metropolitan and Nonmetropolitan Area Occupational Employment and Wage Estimates from the U.S Bureau of Labor Statistics for the national and city/county levels. This data was filtered by including job titles that contain the following keywords:<a href="#fn-4" class="fn-toward transition-all-100"><sup>[4]</sup></a>
 								<ul>
 									<li class="content-text wrapLi"><i>'Computer'</i>,</li>
 									<li class="content-text wrapLi"><i>'Information'</i>,</li>
@@ -87,7 +87,7 @@
 								</ul>
 								The filtered data on all levels includes unique BLS Identifier for each Job Title, National or Local Average Annual Mean Salary and Job Title.
 							</li>
-							<li class="content-text">We compiled a list of the best 25 tech-related jobs in the U.S from our Glassdoor data by assigning each job title a rank based on the salaries for said job (starting job) and the the nex 2 jobs an employee in that position is likely to attain, as estimated by Glassdoor's Job Progression Statistics Tool. The ranks for all jobs are obtained with the following formula:
+							<li id="ss-5" class="content-text">We compiled a list of the best 15 tech-related jobs in the U.S from our Glassdoor data by assigning each job title a rank based on the salaries for said job (starting job) and the the nex 2 jobs an employee in that position is likely to attain, as estimated by Glassdoor's Job Progression Statistics Tool. The ranks for all jobs are obtained with the following formula:<a href="#fn-5" class="fn-toward transition-all-100"><sup>[5]</sup></a>
 								<ul class="use-disc">
 									<li class="content-text">Starting Position (National Average Mean Salary) = P<h4 class="subtext" style="display:inline">1</h4></li>
 									<li class="content-text">1st Next Job for Starting Position (National Average Mean Salary) = P<h4 class="subtext" style="display:inline">2</h4></li>
@@ -117,7 +117,7 @@
 				<div id="results" class="content-section">
 					<h2 class="section-title">Results:</h2>
 					<div id="vis-container" class="map-vis container-sub">
-						<script src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyDLOZ48KZdqM0dbVwGtijGMb-4aVeGrV90'></script><div style='overflow:hidden;height:500px;width:900px;'><div id='gmap_canvas' style='height:500px;width:900px;'></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div> <a href='https://www.add-map.net/'>add google maps to website</a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=45a640b2899be2c54e82602bad1a7aeb6af74bd3'></script><script type='text/javascript'>function init_map(){var myOptions = {zoom:5,center:new google.maps.LatLng(41.2523634,-95.99798829999997),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(41.2523634,-95.99798829999997)});infowindow = new google.maps.InfoWindow({content:'<strong></strong><br><br> Omaha<br>'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>					</div>
+						<script src='https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyDLOZ48KZdqM0dbVwGtijGMb-4aVeGrV90'></script><div style='overflow:hidden;height:500px;width:900px;'><div id='gmap_canvas' style='height:500px;width:900px;'></div><style>#gmap_canvas img{max-width:none!important;background:none!important}</style></div> <a href='https://www.add-map.net/'>add google maps to website</a> <script type='text/javascript' src='https://embedmaps.com/google-maps-authorization/script.js?id=45a640b2899be2c54e82602bad1a7aeb6af74bd3'></script><script type='text/javascript'>function init_map(){var myOptions = {zoom:4,center:new google.maps.LatLng(41.2523634,-95.99798829999997),mapTypeId: google.maps.MapTypeId.ROADMAP};map = new google.maps.Map(document.getElementById('gmap_canvas'), myOptions);marker = new google.maps.Marker({map: map,position: new google.maps.LatLng(41.2523634,-95.99798829999997)});infowindow = new google.maps.InfoWindow({content:'Omaha'});google.maps.event.addListener(marker, 'click', function(){infowindow.open(map,marker);});infowindow.open(map,marker);}google.maps.event.addDomListener(window, 'load', init_map);</script>					</div>
 					<div class="data-result-container true-flex-box container-sub">
 						<div class="jobs-data-container drop-items-box">
 							<h2 class="container-title">Top Jobs:</h2>
@@ -151,10 +151,12 @@
 					<h3>Footnotes:</h2>
 					<div class="sources-content">
 						<ul>
-							<li class="content-text">hello <a href="#" class="fn-back transition-all-100">^</a></li>
-							<li class="content-text">hello <a href="#" class="fn-back transition-all-100">^</a></li>
-							<li class="content-text">hello <a href="#" class="fn-back transition-all-100">^</a></li>
-							<li class="content-text">hello <a href="#" class="fn-back transition-all-100">^</a></li>
+							<li id="fn-1" class="content-text">While these are some basic information factors that should go into the ranking, there are many more factors and information that we could potentially show.<a href="#ss-1" class="fn-back transition-all-100">^</a></li>
+							<li id="fn-2" class="content-text">We have seven as the number of companies as that is the max we could get for the time being. This can be expanding by simply repeating the script with more companies.<a href="#ss-2" class="fn-back transition-all-100">^</a></li>
+							<li id="fn-3" class="content-text">Some of these are direct of the LinkedIn site for how to filter Seniority, some of them are ones we added to address specific job titling issues that are easy to show as non-entry level postions.<a href="#ss-3" class="fn-back transition-all-100">^</a></li>
+							<li id="fn-4" class="content-text">These keywords were used by the BLS as well as some additionally chosen by the team for again, specific issues with labeling of tech-related jobs between multipl systems.<a href="#ss-4" class="fn-back transition-all-100">^</a></li>
+							<li id="fn-5" class="content-text">This formula is a very simplistic. It can always be improved by adding more features. Ranking by Consumer Price Index in each city, etc. The ranking for our data was done in this method because we found it to be the simplist way to combine the already complex multi-system dataset.<br>
+								Additionally, it's important to note that the weights were decided upon by a group of undergraduates through a survey question. While there may be a bit of bias in these weights, overall the weights are respresentative of our population.<a href="#ss-4" class="fn-back transition-all-100">^</a></li>
 						</ul>
 					</div>
 				</div>
