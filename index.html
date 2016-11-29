@@ -45,15 +45,16 @@
 					<p class="content-text">Glassdoor is an online website and service for employers to post job-ads and for employees and individuals to view and rate companies. The company aims to provide transparency between employers and employees because they believe that doing so creates huge benefits to employers, employees, and job seekers.</p>
 					<p class="content-text">The question our project aims to answer is <i>“What are the best geographical locations in the U.S to start a career at in terms of quality of life and job progression for new graduates in tech-related fields in 2016?”</i></p>
 					<p class="content-text">We firmly believe that making decisions according to data, rather than solely relying on intuition enables newly graduates to make better, informed choices when contemplating where to start a career in terms of quality of life and professional development prospects.</p>
-					<p class="content-text">Thus, by using data on companies gathered from Glassdoor and socioeconomic data from the U.S Census Bureau, we hope to give newly graduates a more comprehensive understanding of what companies offer the best benefits and what locations for said company to choose based on salary, number of entry-level tech jobs available, benefits, opportunities, cost of living, crime rate and commuting time and options.</p>
+					<p class="content-text">Thus, by using data on companies gathered from Glassdoor and socioeconomic data from the U.S Census Bureau, we hope to give newly graduates a more comprehensive understanding of what companies offer the best benefits and what locations for said company to choose based on salary, number of entry-level tech jobs available, benefits, opportunities, and cost of living.<a href="#fn-1" class="fn-toward transition-all-100"><sup>[1]</sup></a></p>
 				</div>
 
 				<div id="method" class="content-section method">
 					<h2 class="section-title">Method:</h2>
 					<div class="method-content">
 						<ul>
-							<li class="content-text">We start by creating a list of the top 7 U.S Technology companies from NASDAQ's set of company lists by Industry.</li>
-							<li class="content-text">We obtained jobs statistics for each company from Glassdoor by making query calls to the site's API with the company's location (city and state) and name. Then, we filtered the results by excluding all elements from our jobs list that include the following words which denote seniority as used by LinkedIn job filtering tools:</li>
+							<li class="content-text">We start by creating a list of the top 7 U.S Technology companies from NASDAQ's set of company lists by Industry.<a href="#fn-2" class="fn-toward transition-all-100"><sup>[2]</sup></a></li>
+							<li class="content-text">For each company, obtain a list of all locations they offer positions in. We do this by querying the Glassdoor API with just the company name and asking for cities and states back.</li>
+							<li class="content-text">After retrieving each companies location, obtain jobs statistics from Glassdoor by querying the API with the company's location (city and state) and name. Then, we filtered the results by excluding all elements from our jobs list that include the following words which denote seniority as used by LinkedIn job filtering tools:<a href="#fn-3" class="fn-toward transition-all-100"><sup>[3]</sup></a></li>
 							<ul>
 								<li class="content-text wrapLi"><i>'Chief'</i>,</li>
 								<li class="content-text wrapLi"><i>'Director'</i>,</li>
@@ -70,26 +71,36 @@
 								<li class="content-text wrapLi"><i>'VP'</i>,</li>
 								<li class="content-text wrapLi"><i>'Vice President'</i></li>
 							</ul>
-							<li class="content-text">We gathered data from the May 2015 Metropolitan and Nonmetropolitan Area Occupational Employment and Wage Estimates from the U.S Bureau of Labor Statistics for the national and city/county levels. The data on all levels includes unique BLS Identifier for each Job Title, National or Local Average Annual Mean Salary and Job Title.</li>
+							<li class="content-text">We gathered data from the May 2015 Metropolitan and Nonmetropolitan Area Occupational Employment and Wage Estimates from the U.S Bureau of Labor Statistics for the national and city/county levels. This data was filtered by including job titles that contain the following keywords:<a href="#fn-4" class="fn-toward transition-all-100"><sup>[4]</sup></a>
+								<ul>
+									<li class="content-text wrapLi"><i>'Computer'</i>,</li>
+									<li class="content-text wrapLi"><i>'Information'</i>,</li>
+									<li class="content-text wrapLi"><i>'Web'</i>,</li>
+									<li class="content-text wrapLi"><i>'Data'</i>,</li>
+									<li class="content-text wrapLi"><i>'Design'</i>,</li>
+									<li class="content-text wrapLi"><i>'Dev'</i>,</li>
+									<li class="content-text wrapLi"><i>'Software'</i>,</li>
+									<li class="content-text wrapLi"><i>'Application'</i>,</li>
+									<li class="content-text wrapLi"><i>'Database'</i>,</li>
+									<li class="content-text wrapLi"><i>'Systems'</i>,</li>
+									<li class="content-text wrapLi"><i>'Dev'</i></li>
+								</ul>
+								The filtered data on all levels includes unique BLS Identifier for each Job Title, National or Local Average Annual Mean Salary and Job Title.
+							</li>
 							<li class="content-text">We compiled a list of the best 25 tech-related jobs in the U.S from our Glassdoor data by assigning each job title a rank based on the salaries for said job (starting job) and the the nex 2 jobs an employee in that position is likely to attain, as estimated by Glassdoor's Job Progression Statistics Tool. The ranks for all jobs are obtained with the following formula:
 								<ul class="use-disc">
-									<li class="content-text">Starting Position(National Average Mean Salary) = P<h4 class="subtext" style="display:inline">1</h4></li>
+									<li class="content-text">Starting Position (National Average Mean Salary) = P<h4 class="subtext" style="display:inline">1</h4></li>
 									<li class="content-text">1st Next Job for Starting Position (National Average Mean Salary) = P<h4 class="subtext" style="display:inline">2</h4></li>
-									<li class="content-text">2nd Next Job fpr Starting Position (National Average Mean Salary) = P<h4 class="subtext" style="display:inline">3</h4></li>
+									<li class="content-text">2nd Next Job for Starting Position (National Average Mean Salary) = P<h4 class="subtext" style="display:inline">3</h4></li>
 								</ul>
 								<div class="formula-box">
 									<i>JobScore = (P<h4 class="subtext" style="display:inline">1</h4> * 0.45) + (P<h4 class="subtext" style="display:inline">2</h4> * 0.15) + (P<h4 class="subtext" style="display:inline">3</h4> * 0.40)</i>
 								</div>
 								<!--<p id="disclaimer"><br>&nbsp &nbsp &nbsp *Weights were obtained through a survey distributed to college students via social media where respondents were asked to rank the stages of their prospective career by distributing 100 points among starting job, 1st next job and 2nd next job. Results demonstrated that while the middle stage of a career attains certain importance, the immediate and long-term stages of a career are the most important for our respondents.</p>-->
 							</li>
-							<li class="content-text">Locations are filtered by:</li>
-							<ul>
-								<li class="content-text wrapLi">Temp,</li>
-								<li class="content-text wrapLi">Temp,</li>
-								<li class="content-text wrapLi">Temp</li>
-							</ul>
+							<li class="content-text">Locations are filtered by aggregating the number of jobs each company offers in each city. The cities with the largest number of openings available for the top jobs for each company is featured.</li>
 							<li class="content-text">Then, to sort the jobs by location, we determine what cities offer the jobs with the best progression from our previous rating.</li>
-							<li class="content-text">Then for each city, a list will show each job with its ranking in our list, the median starting salary for that job in that city (normalized with the Consumer Price Index vs the CPI for the nation) and the average salary progression for the job.</li>
+							<li class="content-text">For each city, a list will show each job with its ranking in our list, the median starting salary for that job in that city (normalized with the Consumer Price Index vs the CPI for the nation) and the average salary progression for the job.</li>
 							<li class="content-text">When you click on the job title, a window will show a of companies offering that job and each company will have a rating that is based on getting the average rating based on:
 								<ul>
 									<li class="content-text wrapLi"><i>'Culture and Values'</i>,</li>
@@ -105,7 +116,9 @@
 
 				<div id="results" class="content-section">
 					<h2 class="section-title">Results:</h2>
-					<div id="vis-container" class="map-vis container-sub"></div>
+					<div id="vis-container" class="map-vis container-sub">
+						<iframe src="http://createaclickablemap.com/map.php?&id=54878&online=true" width="900" height="500" style="border: none;"></iframe>
+					</div>
 					<div class="data-result-container true-flex-box container-sub">
 						<div class="jobs-data-container drop-items-box">
 							<h2 class="container-title">Top Jobs:</h2>
@@ -125,7 +138,7 @@
 						</p>
 
 						<p class="content-text">
-							Additionally, while we were only to compile seven companies and their location and job data, the system is built to scale. Meaning that in future development, it is possible for a user to search a specific company, or company and location, and the data would return back (albeit slowly).
+							Additionally, while we were only to compile seven companies and their location and job data, the system is built to scale. Meaning that in future development, it is possible for a user to search a specific company, or company and location, and the data would return back, albeit slowly.
 						</p>
 
 						<p class="content-text">
