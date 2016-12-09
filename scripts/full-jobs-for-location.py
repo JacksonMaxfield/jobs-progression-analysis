@@ -12,12 +12,7 @@ from difflib import SequenceMatcher
 # caller settings
 callID = 0
 configures = [
-    {'pid' : "104323", 'pkey' : "ef8HfLzOp7A", 'pip' : "2601:602:8701:7a98:840c:8e86:a7c5:b332"},
-    {'pid' : "108455", 'pkey' : "b3p135Es6Tc", 'pip' : "10.240.203.29"},
-    {'pid' : "108481", 'pkey' : "fsAnlewSQho", 'pip' : "2601:602:8701:7a98:840c:8e86:a7c5:b332"},
-    {'pid' : "108483", 'pkey' : "fv9G8dMEovs", 'pip' : "10.240.203.29"},
-    {'pid' : "105144", 'pkey' : "8dfZEUklum", 'pip' : "2601:602:8701:7a98:840c:8e86:a7c5:b332"},
-    {'pid' : "106918", 'pkey' : "C1GZIwosqE", 'pip' : "10.240.203.29"}
+    
 ]
 
 # general glassdoor API call function
